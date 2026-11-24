@@ -9,12 +9,12 @@
         "@fsegurai/codemirror-theme-material-dark": "^6.2.2",
         "@fsegurai/codemirror-theme-material-light": "^6.2.2",
         "@rollup/plugin-node-resolve": "^16.0.1",
-        "@rollup/plugin-terser": "^0.4.4",
+        "@rollup/plugin-terser": "^1.0.2",
         "codemirror-markdown-commands": "^0.1.0",
         "less": "^4.4.1",
         "less-plugin-clean-css": "^1.6.0",
-        "markdown-it": "^14.1.0",
-        "rollup": "^4.45.1"
+        "markdown-it": "^14.3.3",
+        "rollup": "^4.68.8"
     },
     "devDependencies": {
         "rollup-plugin-bundle-stats": "^4.21.3"
